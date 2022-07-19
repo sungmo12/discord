@@ -1,0 +1,4 @@
+worker: python main.py
+worker: python config.json
+worker: python add_message.py
+worker: python config.py
